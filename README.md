@@ -2,7 +2,8 @@
 
 **Hi, I'm Nacho! 👋**
 **Technical Product Manager | Software Engineer**
-*+[Chat With Me](https://huggingface.co/spaces/imbustamante/imb-career-chatbot)**: 
+
+**[Chat With Me](https://huggingface.co/spaces/imbustamante/imb-career-chatbot)**: 
 
 🏢 **Location:** Madrid, Spain  
 🌍 **Nationality:** Argentine / Spanish  
